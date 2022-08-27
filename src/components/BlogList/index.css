@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.ul {
+  list-style-type: none;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
